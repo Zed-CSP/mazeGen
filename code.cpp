@@ -4,8 +4,8 @@
 #include <cstdlib>
 #include <ctime>
 
-const int ROWS = 100;
-const int COLS = 100;
+const int ROWS = 20;
+const int COLS = 20;
 
 struct Cell {
     int x, y;
